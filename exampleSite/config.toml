@@ -1,4 +1,4 @@
-baseURL = "https://tmi.netlify.app"
+baseURL = "https://touchmi.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
