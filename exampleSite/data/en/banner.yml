@@ -2,10 +2,11 @@
 banner:
   enable : true
   bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image : "images/backgrounds/tmi-bg1.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Customer churn masters at play"
+  content : "If you really want to get ahead in the game, nail down a great customer experience strategy. A well-executed customer service strategy will maximize customer lifetime value, increase customer satisfaction and send your revenue soaring. In fact, the only thing going down will be your churn rate.
+Welcome to the TouchPoint Management Institute, where the chrun masters play for your team."
   button:
     enable : true
     label : "Explore Us"

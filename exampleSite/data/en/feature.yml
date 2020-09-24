@@ -3,25 +3,22 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : WHOMST ARE WE?
+  content : "We are kinder spirits of the African soil, poised to take African businesses to the next level of
+customer experience CX. No, we are not a customer service company, that is just one touchpoint we
+focus on to delivery outstanding customer experience strategies."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Customer Experience
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Customer experience is the sum total of all the interactions between a customer and an organisation, including discovery, initiation, purchase, service, and advocacy. This is our play ground and we’re on your team. Time to level up.
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Organic Growth
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : We take the thumb suck out and truly get to understand your customers, we engage the only person who matters to make sure they get an experience they can tell the world about. Forget marketing, customer experience is the new marketing, let your customers do that for you.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Proven Expertise
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Make no mistake though, it’s hard. Most businesses bury their head in the sand or come at it from the wrong angle. But fear not, TouchPoint Management Institute is here to help you.

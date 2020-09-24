@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Touchpoint Management Institute"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Another project by [DigitizeAfrika](https://www.digitizeafrika.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -55,7 +55,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "images/tmi-logo.png"
 post_share = true
 [params.map]
 enable = true
