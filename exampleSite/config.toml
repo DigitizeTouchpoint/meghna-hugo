@@ -35,22 +35,12 @@ weight = 3
 URL = "team"
 name = "team"
 weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "pricing"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 6
+
 [[menu.main]]
 URL = "contact"
 name = "contact"
 weight = 7
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 8
+
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
