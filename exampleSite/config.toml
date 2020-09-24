@@ -1,5 +1,5 @@
 baseURL = "https://touchmi.netlify.app"
-disableLanguages = []
+disableLanguages = "true"
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
