@@ -45,7 +45,7 @@ weight = 7
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "images/tmi-logo.png"
+logo = "images/tmi-logo.jpg"
 post_share = true
 [params.map]
 enable = true
