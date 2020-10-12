@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
+  image : images/tmi-bino.gif
   image_webp : images/about/about-business-man.webp
   title : WHOMST ARE WE?
   content : "We are kinder spirits of the African soil, poised to take African businesses to the next level of

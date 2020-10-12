@@ -2,7 +2,7 @@
 banner:
   enable : true
   bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/tmi-bg1.png"
+  bg_image : "images/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Customer churn masters at play"
   content : "If you really want to get ahead in the game, nail down a great customer experience strategy. A well-executed customer service strategy will maximize customer lifetime value, increase customer satisfaction and send your revenue soaring. In fact, the only thing going down will be your churn rate.
